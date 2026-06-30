@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Quirky data files
+tasks.json
+
+# macOS files
+.DS_Store
+
+# Virtual environments
+venv/
+.env
